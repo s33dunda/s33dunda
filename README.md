@@ -3,11 +3,16 @@
 - 📧 **Email:** [s33dunda@gmail.com](mailto:s33dunda@gmail.com)
 - 🔗 **LinkedIn:** [Charles Dunda](https://www.linkedin.com/in/charles-dunda/)
 - 🌐 **GitHub Contributions:**
-  - [port-labs](https://github.com/port-labs/port-aws-exporter)
+  - [port-labs](https://github.com/port-labs/port-aws-exporter/pull/20)
   - [opa](https://github.com/open-policy-agent/opa)
-  - [conftest](https://github.com/open-policy-agent/conftest)
+  - [conftest](https://github.com/open-policy-agent/conftest/pull/787)
   - [hashicorp](https://github.com/hashicorp/terraform-provider-aws)
-  - [datadog](https://github.com/zorkian/go-datadog-api)
+  - [terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws/pull/12599)
+  - [terraform-provider-datadog](https://github.com/DataDog/terraform-provider-datadog/pull/428)
+  - [go-datadog-api](https://github.com/zorkian/go-datadog-api/pull/289)
+  - [datadog-lambda-rb](https://github.com/DataDog/datadog-lambda-rb/issues/40)
+  - [crypto-password](https://github.com/weavejester/crypto-password/pull/7)
+  - [sensu-puppet](https://github.com/sensu/sensu-puppet/issues/342)
  
 
 ## Profile
