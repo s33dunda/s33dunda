@@ -5,7 +5,6 @@
 - 🌐 **GitHub Contributions:**
   - [port-labs](https://github.com/port-labs/port-aws-exporter/pull/20)
   - [conftest](https://github.com/open-policy-agent/conftest/pull/787)
-  - [hashicorp](https://github.com/hashicorp/terraform-provider-aws)
   - [terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws/pull/12599)
   - [terraform-provider-datadog](https://github.com/DataDog/terraform-provider-datadog/pull/428)
   - [go-datadog-api](https://github.com/zorkian/go-datadog-api/pull/289)
