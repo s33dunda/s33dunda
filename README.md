@@ -12,7 +12,9 @@
   - [datadog-lambda-rb](https://github.com/DataDog/datadog-lambda-rb/issues/40)
   - [crypto-password](https://github.com/weavejester/crypto-password/pull/7)
   - [sensu-puppet](https://github.com/sensu/sensu-puppet/issues/342)
- 
+- :octocat: **GitHub Stats:**
+
+[![Stats](https://github-readme-stats-plum-six.vercel.app/api/?username=s33dunda&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/s33dunda/github-readme-stats) 
 
 ## Profile
 
