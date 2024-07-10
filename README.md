@@ -4,7 +4,6 @@
 - 🔗 **LinkedIn:** [Charles Dunda](https://www.linkedin.com/in/charles-dunda/)
 - 🌐 **GitHub Contributions:**
   - [port-labs](https://github.com/port-labs/port-aws-exporter/pull/20)
-  - [opa](https://github.com/open-policy-agent/opa)
   - [conftest](https://github.com/open-policy-agent/conftest/pull/787)
   - [hashicorp](https://github.com/hashicorp/terraform-provider-aws)
   - [terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws/pull/12599)
