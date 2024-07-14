@@ -20,7 +20,7 @@
 
 ## Profile
 
-Experienced DevOps Engineer with a focus on platform engineering, including the development of self-service systems and automation frameworks. Skilled in enhancing system reliability and deployment efficiency through cloud solutions and automation.
+Platform Engineer specializing in DevOps, building self-service systems, and automation frameworks. Focused on boosting system reliability and deployment speed with cloud solutions and automation.
 
 ## Skills
 
