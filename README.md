@@ -14,7 +14,9 @@
 
 - :octocat: **GitHub Stats:**
 
-![Stats](https://github-readme-stats-plum-six.vercel.app/api/?username=s33dunda&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+| <a href="https://github.com/s33dunda/github-readme-stats"><img align="center" src="https://github-readme-stats-plum-six.vercel.app/api?username=s33dunda&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="s33dunda's github stats" /></a> | <a href="https://github.com/s33dunda/github-readme-stats"><img align="center" src="https://github-readme-stats-plum-six.vercel.app/api/top-langs/?username=s33dunda&layout=compact&theme=dark&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 
 ## Profile
 
