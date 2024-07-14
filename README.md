@@ -14,8 +14,8 @@
 
 - <img src="https://github.com/user-attachments/assets/974253c8-a9ca-4a9f-b33b-da7285df8ad0" alt="octocat" style="width:20px;"/> **GitHub Stats:**
 
-| <a href="https://github.com/s33dunda/github-readme-stats"><img align="center" src="https://github-readme-stats-plum-six.vercel.app/api?username=s33dunda&show_icons=true&include_all_commits=false&theme=dark&hide_border=true" alt="s33dunda's github stats" /></a> | <a href="https://github.com/s33dunda/github-readme-stats"><img align="center" src="https://github-readme-stats-plum-six.vercel.app/api/top-langs/?username=s33dunda&layout=compact&theme=dark&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/s33dunda/github-readme-stats"><img align="center" src="https://github-readme-stats-plum-six.vercel.app/api?username=s33dunda&show_icons=true&include_all_commits=false&theme=dark&hide_border=true" alt="s33dunda's github stats" /></a> <a href="https://github.com/s33dunda/github-readme-stats"><img align="center" src="https://github-readme-stats-plum-six.vercel.app/api/top-langs/?username=s33dunda&layout=compact&theme=dark&hide_border=true" /></a>
+
 
 
 ## Profile
