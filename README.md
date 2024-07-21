@@ -12,12 +12,6 @@
   - [crypto-password](https://github.com/weavejester/crypto-password/pull/7)
   - [sensu-puppet](https://github.com/sensu/sensu-puppet/issues/342)
 
-- <img src="https://github.com/user-attachments/assets/974253c8-a9ca-4a9f-b33b-da7285df8ad0" alt="octocat" style="width:20px;"/> **GitHub Stats:**
-
-<a href="https://github.com/s33dunda/github-readme-stats"><img align="center" src="https://github-readme-stats-plum-six.vercel.app/api?username=s33dunda&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="s33dunda's github stats" /></a> <a href="https://github.com/s33dunda/github-readme-stats"><img align="center" src="https://github-readme-stats-plum-six.vercel.app/api/top-langs/?username=s33dunda&layout=compact&theme=dark&hide_border=true" /></a>
-
-
-
 ## Profile
 
 Platform Engineer specializing in DevOps, building self-service systems, and automation frameworks. Focused on boosting system reliability and deployment speed with cloud solutions and automation.
