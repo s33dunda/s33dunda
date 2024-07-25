@@ -19,16 +19,10 @@ Platform Engineer specializing in DevOps, building self-service systems, and aut
 ## Skills
 
 -  Scripting with Bash or Python
-    
--  Experience with Clojure
-    
--  Golang CLI Tooling
-    
--  Writing and managing Terraform
-    
--  Expertise in Cloud Control APIs and AWS CloudFormation
-    
--  Datadog Monitoring
+            
+-  Terraform Expert
+        
+-  Appilcation and Service Monitoring
     
 -  Cloud Systems Architecture and Networking
     
@@ -38,7 +32,9 @@ Platform Engineer specializing in DevOps, building self-service systems, and aut
     
 -  CI/CD Pipelines (Jenkins, Buildkite, CircleCI, GitHub)
 
--  GitOps (ArgoCD)
+-  GitOps
+
+-  Kubernetes
     
     
 ## Employment Record
