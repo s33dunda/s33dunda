@@ -35,6 +35,8 @@ Platform Engineer specializing in DevOps, building self-service systems, and aut
 -  GitOps
 
 -  Kubernetes
+
+-  Self-Service Abstractions
     
     
 ## Employment Record
