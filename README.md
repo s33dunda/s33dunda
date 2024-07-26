@@ -24,7 +24,8 @@
 
 ## Profile
 
-Platform Engineer specializing in DevOps, building self-service systems, and automation frameworks. Focused on boosting system reliability and deployment speed with cloud solutions and automation.
+#### Platform Engineer specializing in DevOps, building self-service systems, and automation frameworks. Focused on boosting system reliability and deployment speed with advanced cloud solutions and comprehensive automation strategies.
+
 
 ## Skills
 
@@ -51,9 +52,7 @@ Platform Engineer specializing in DevOps, building self-service systems, and aut
   </tr>
 </table>
 
-
-
- ## GitHub Contributions
+## GitHub Contributions
     
   | [port-labs](https://github.com/port-labs/port-aws-exporter/pull/20) | [conftest](https://github.com/open-policy-agent/conftest/pull/787) | [go-datadog-api](https://github.com/zorkian/go-datadog-api/pull/289) | [datadog-lambda-rb](https://github.com/DataDog/datadog-lambda-rb/issues/40) |
   |-----------|-----------|-----------|-----------|
