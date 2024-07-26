@@ -68,7 +68,8 @@
 
 ### 2U, Inc., New York, NY (2015-2018) Engineer II
 
-- As an embedded DevOps Engineer, optimized and managed the implementation portfolio, enhancing project delivery speed by 100% Managed multiple partner integrations, coordinating cross-functional teams
+- Optimized and managed University partner implementation, enhancing project delivery speed by 100%
+- Managed multiple partner integrations, coordinating cross-functional teams
 - Converted CloudFormation templates into Infrastructure as Code (IaC) with Terraform, reducing deployment times by 50% and lowering error
 rates.
 
