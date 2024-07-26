@@ -52,12 +52,6 @@
   </tr>
 </table>
 
-## GitHub Contributions
-    
-  | [port-labs](https://github.com/port-labs/port-aws-exporter/pull/20) | [conftest](https://github.com/open-policy-agent/conftest/pull/787) | [go-datadog-api](https://github.com/zorkian/go-datadog-api/pull/289) | [datadog-lambda-rb](https://github.com/DataDog/datadog-lambda-rb/issues/40) |
-  |-----------|-----------|-----------|-----------|
-  | [terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws/pull/12599) | [terraform-provider-datadog](https://github.com/DataDog/terraform-provider-datadog/pull/428) | [crypto-password](https://github.com/weavejester/crypto-password/pull/7) | [sensu-puppet](https://github.com/sensu/sensu-puppet/issues/342) |
-
 ## Employment Record
     
     
@@ -83,6 +77,54 @@ rates.
 - Managed configuration with Puppet, standardizing server setups across the organization, which reduced setup times by 40% and improved compliance.
 - Consolidated 20 single-tenant infrastructure stacks into a single, triple-sized multi-tenant stack, achieving a 95% reduction in total stack count
 
+## GitHub Contributions
+    
+<table style="width: 100%; border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="width: 25%; border: none; vertical-align: top;">
+      <ul>
+        <li><a href="https://github.com/port-labs/port-aws-exporter/pull/20">port-labs</a></li>
+      </ul>
+    </td>
+    <td style="width: 25%; border: none; vertical-align: top;">
+      <ul>
+        <li><a href="https://github.com/open-policy-agent/conftest/pull/787">conftest</a></li>
+      </ul>
+    </td>
+    <td style="width: 25%; border: none; vertical-align: top;">
+      <ul>
+        <li><a href="https://github.com/zorkian/go-datadog-api/pull/289">go-datadog-api</a></li>
+      </ul>
+    </td>
+    <td style="width: 25%; border: none; vertical-align: top;">
+      <ul>
+        <li><a href="https://github.com/DataDog/datadog-lambda-rb/issues/40">datadog-lambda-rb</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td style="width: 25%; border: none; vertical-align: top;">
+      <ul>
+        <li><a href="https://github.com/hashicorp/terraform-provider-aws/pull/12599">terraform-provider-aws</a></li>
+      </ul>
+    </td>
+    <td style="width: 25%; border: none; vertical-align: top;">
+      <ul>
+        <li><a href="https://github.com/DataDog/terraform-provider-datadog/pull/428">terraform-provider-datadog</a></li>
+      </ul>
+    </td>
+    <td style="width: 25%; border: none; vertical-align: top;">
+      <ul>
+        <li><a href="https://github.com/weavejester/crypto-password/pull/7">crypto-password</a></li>
+      </ul>
+    </td>
+    <td style="width: 25%; border: none; vertical-align: top;">
+      <ul>
+        <li><a href="https://github.com/sensu/sensu-puppet/issues/342">sensu-puppet</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
     
 ## Education
     
