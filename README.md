@@ -1,16 +1,26 @@
 # Charles E. Dunda  
 
-- 📧 **Email:** [s33dunda@gmail.com](mailto:s33dunda@gmail.com)
-- 🔗 **LinkedIn:** [Charles Dunda](https://www.linkedin.com/in/charles-dunda/)
-- 🌐 **GitHub Contributions:**
-  - [port-labs](https://github.com/port-labs/port-aws-exporter/pull/20)
-  - [conftest](https://github.com/open-policy-agent/conftest/pull/787)
-  - [terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws/pull/12599)
-  - [terraform-provider-datadog](https://github.com/DataDog/terraform-provider-datadog/pull/428)
-  - [go-datadog-api](https://github.com/zorkian/go-datadog-api/pull/289)
-  - [datadog-lambda-rb](https://github.com/DataDog/datadog-lambda-rb/issues/40)
-  - [crypto-password](https://github.com/weavejester/crypto-password/pull/7)
-  - [sensu-puppet](https://github.com/sensu/sensu-puppet/issues/342)
+<table style="width: 100%; border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="width: 33%; border: none; vertical-align: top;">
+      <ul>
+        <li>📧 <strong>Email:</strong> <a href="mailto:s33dunda@gmail.com">s33dunda@gmail.com</a></li>
+      </ul>
+    </td>
+    <td style="width: 33%; border: none; vertical-align: top;">
+      <ul>
+        <li>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/charles-dunda/">Charles Dunda</a></li>
+      </ul>
+    </td>
+    <td style="width: 33%; border: none; vertical-align: top;">
+      <ul>
+        <li>🐙 <strong>GitHub:</strong> <a href="https://github.com/s33dunda">s33dunda</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+
 
 ## Profile
 
@@ -18,27 +28,37 @@ Platform Engineer specializing in DevOps, building self-service systems, and aut
 
 ## Skills
 
--  Scripting with Bash or Python
-            
--  Terraform Expert
-        
--  Appilcation and Service Monitoring
-    
--  Cloud Systems Architecture and Networking
-    
--  Technical Documentation
-    
--  Strong communication skills, written and verbal
-    
--  CI/CD Pipelines (Jenkins, Buildkite, CircleCI, GitHub)
+<table style="width: 100%; border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="width: 50%; border: none; vertical-align: top;">
+      <ul>
+        <li>Scripting with Bash or Python</li>
+        <li>Terraform Expert</li>
+        <li>Application and Service Monitoring</li>
+        <li>Cloud Systems Architecture and Networking</li>
+        <li>Technical Documentation</li>
+      </ul>
+    </td>
+    <td style="width: 50%; border: none; vertical-align: top;">
+      <ul>
+        <li>Strong communication skills, written and verbal</li>
+        <li>CI/CD Pipelines (Jenkins, Buildkite, CircleCI, GitHub)</li>
+        <li>GitOps</li>
+        <li>Kubernetes</li>
+        <li>Self-Service Abstractions</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
--  GitOps
 
--  Kubernetes
 
--  Self-Service Abstractions
+ ## GitHub Contributions
     
-    
+  | [port-labs](https://github.com/port-labs/port-aws-exporter/pull/20) | [conftest](https://github.com/open-policy-agent/conftest/pull/787) | [go-datadog-api](https://github.com/zorkian/go-datadog-api/pull/289) | [datadog-lambda-rb](https://github.com/DataDog/datadog-lambda-rb/issues/40) |
+  |-----------|-----------|-----------|-----------|
+  | [terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws/pull/12599) | [terraform-provider-datadog](https://github.com/DataDog/terraform-provider-datadog/pull/428) | [crypto-password](https://github.com/weavejester/crypto-password/pull/7) | [sensu-puppet](https://github.com/sensu/sensu-puppet/issues/342) |
+
 ## Employment Record
     
     
@@ -70,21 +90,27 @@ rates.
 ## Western Governors University
  - Bachelor of Science in Information Technology w/ Software Emphasis, 2011-2015
     
-### Certificates    
--  Web Design Specialist, CIW
-    
--  JavaScript Specialist, CIW
-    
--  Database Design Specialist, CIW
-    
--  Web Development Professional, CIW
-    
--  Oracle Java SE 6, Oracle
-    
--  CompTIA A+ Ce, CompTIA
-    
--  CompTIA Linux+ (Powered by LPI), CompTIA
-    
--  CompTIA Project+, CompTIA
-    
--  CompTIA Security+ Ce, CompTIA
+### Certificates
+
+<table style="width: 100%; border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="width: 50%; border: none; vertical-align: top;">
+      <ul>
+        <li>Web Design Specialist, CIW</li>
+        <li>JavaScript Specialist, CIW</li>
+        <li>Database Design Specialist, CIW</li>
+        <li>Web Development Professional, CIW</li>
+        <li>Oracle Java SE 6, Oracle</li>
+      </ul>
+    </td>
+    <td style="width: 50%; border: none; vertical-align: top;">
+      <ul>
+        <li>CompTIA A+ Ce</li>
+        <li>CompTIA Linux+ (Powered by LPI)</li>
+        <li>CompTIA Project+</li>
+        <li>CompTIA Security+ Ce</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
