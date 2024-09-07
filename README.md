@@ -58,17 +58,20 @@
 ### 2U, Inc., New York, NY (2020-Present) Engineer IV
 
 - Lead the DevOps team in the development of an in-house self-service platform “CentralPark”, reducing infrastructure-related tickets by over 200 monthly.
+- Leveraged AWS Firewall Manager to enable WAF in a self-service manner for more than 500 microservices
 - Developed and maintained 25+ Kubernetes clusters on EKS with managed node groups. Utilizing Cluster Autoscaler for 500+ services.
 - Administered 30+ AWS accounts through AWS Control Tower, AWS Identity Center and OneLogin integration. Saving $50K annually by reducing access management work or ~8 hours per employee
 
 ### 2U, Inc., New York, NY (2018-2020) Engineer III
 
 - Developed the transition from EC2 to Kubernetes using Buildkite’s plugin system
+- Redesigned vulnerability management via scorecards and OpenSSF; gamifying the process while more broadly exposing problematic services through our service catalog
 - Engineered and rolled out a self-service alerting system for AWS Lambdas using Lambdas, Tags, CloudWatch Alarms, and Slack
 
 ### 2U, Inc., New York, NY (2015-2018) Engineer II
 
 - Optimized and managed University partner implementation, enhancing project delivery speed by 100%
+- Automated the generation of Jira tickets for vulnerabilities above cloud security's threshold
 - Managed multiple partner integrations, coordinating cross-functional teams
 - Converted CloudFormation templates into Infrastructure as Code (IaC) with Terraform, reducing deployment times by 50% and lowering error
 rates.
