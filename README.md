@@ -139,18 +139,22 @@ rates.
 
 <table style="width: 100%; border: none; border-collapse: collapse;">
   <tr style="border: none;">
-    <td style="width: 50%; border: none; vertical-align: top;">
+    <td style="width: 33%; border: none; vertical-align: top;">
       <ul>
         <li>Web Design Specialist, CIW</li>
         <li>JavaScript Specialist, CIW</li>
         <li>Database Design Specialist, CIW</li>
-        <li>Web Development Professional, CIW</li>
-        <li>Oracle Java SE 6, Oracle</li>
       </ul>
     </td>
-    <td style="width: 50%; border: none; vertical-align: top;">
+    <td style="width: 33%; border: none; vertical-align: top;">
       <ul>
+        <li>Web Development Professional, CIW</li>
+        <li>Oracle Java SE 6, Oracle</li>
         <li>CompTIA A+ Ce</li>
+      </ul>
+    </td>
+    <td style="width: 33%; border: none; vertical-align: top;">
+      <ul>
         <li>CompTIA Linux+ (Powered by LPI)</li>
         <li>CompTIA Project+</li>
         <li>CompTIA Security+ Ce</li>
