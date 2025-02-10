@@ -57,6 +57,8 @@
     
 ### 2U, Inc., New York, NY (2020-Present) Engineer IV
 
+
+- Reduced EKS spend by 80% after rolling out karpenter and workload optimizations
 - Lead the DevOps team in the development of an in-house self-service platform “CentralPark”, reducing infrastructure-related tickets by over 200 monthly.
 - Leveraged AWS Firewall Manager to enable WAF in a self-service manner for more than 500 microservices
 - Developed and maintained 25+ Kubernetes clusters on EKS with managed node groups. Utilizing Cluster Autoscaler for 500+ services.
