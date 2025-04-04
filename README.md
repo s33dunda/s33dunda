@@ -53,14 +53,20 @@
 </table>
 
 ## Employment Record
-    
-    
-### 2U, Inc., New York, NY (2020-Present) Engineer IV
 
+### 2U, Inc., New York, NY (2024-Present) Principal DevOps Engineer
 
+- Designed and implemented a hierarchical GitOps deployment architecture utilizing a primary ArgoCD instance to govern all cluster resources across 20 Kubernetes environments
+- Established a centralized management pattern where the primary ArgoCD instance orchestrates deployments to secondary ArgoCD instances running on external clusters
+- Engineered a self-healing infrastructure solution that ensures consistent application state across the entire Kubernetes fleet through declarative configuration
+- Streamlined deployment workflows by implementing automated synchronization between Git repositories and cluster states, reducing manual intervention and deployment errors
+- Created comprehensive monitoring and alerting for the ArgoCD ecosystem, ensuring visibility into deployment health and configuration drift
 - Led the migration of CI/CD infrastructure from Buildkite to GitHub Actions workflows and ArgoCD
 - Implemented GitOps principles with automated versioning and preview environments across multiple applications, reducing deployment complexity and improving developer experience.
 - Reduced EKS spend by 80% after rolling out karpenter and workload optimizations
+    
+### 2U, Inc., New York, NY (2020-2024) Engineer IV
+
 - Lead the DevOps team in the development of an in-house self-service platform “CentralPark”, reducing infrastructure-related tickets by over 200 monthly.
 - Leveraged AWS Firewall Manager to enable WAF in a self-service manner for more than 500 microservices
 - Developed and maintained 25+ Kubernetes clusters on EKS with managed node groups. Utilizing Cluster Autoscaler for 500+ services.
