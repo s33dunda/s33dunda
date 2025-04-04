@@ -56,7 +56,7 @@
 
 ### 2U, Inc., New York, NY (2024-Present) Principal DevOps Engineer
 
-- Implementated a hierarchical GitOps deployment architecture included designing an ArgoCD primary instance to manage all cluster resources across 20 Kubernetes environments.
+- Implemented a hierarchical GitOps deployment architecture included designing an ArgoCD primary instance to manage all cluster resources across 20 Kubernetes environments.
 - Designed a centralized management approach which enables the primary ArgoCD controller to manage deployments for secondary ArgoCD instances deployed on external clusters.
 - Improved deployment workflows to be more efficient through automated synchronization between Git repositories and cluster states which reduced both manual intervention and deployment errors.
 - Led the migration of CI/CD infrastructure from Buildkite to GitHub Actions workflows and ArgoCD
