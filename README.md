@@ -58,6 +58,8 @@
 ### 2U, Inc., New York, NY (2020-Present) Engineer IV
 
 
+- Led the migration of CI/CD infrastructure from Buildkite to GitHub Actions workflows and ArgoCD
+- Implemented GitOps principles with automated versioning and preview environments across multiple applications, reducing deployment complexity and improving developer experience.
 - Reduced EKS spend by 80% after rolling out karpenter and workload optimizations
 - Lead the DevOps team in the development of an in-house self-service platform “CentralPark”, reducing infrastructure-related tickets by over 200 monthly.
 - Leveraged AWS Firewall Manager to enable WAF in a self-service manner for more than 500 microservices
