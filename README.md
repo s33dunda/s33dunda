@@ -4,7 +4,7 @@
   <tr style="border: none;">
     <td style="width: 33%; border: none; vertical-align: top;">
       <ul>
-        <li>📧 <strong>Email:</strong> <a href="mailto:s33dunda@gmail.com">s33dunda@gmail.com</a></li>
+        <li>📧 <strong>Email:</strong> <a href="mailto:seedunda@gmail.com">seedunda@gmail.com</a></li>
       </ul>
     </td>
     <td style="width: 33%; border: none; vertical-align: top;">
