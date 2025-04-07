@@ -1,4 +1,4 @@
-# Charles E. Dunda  
+# Charles E. Dunda
 
 <table style="width: 100%; border: none; border-collapse: collapse;">
   <tr style="border: none;">
@@ -20,12 +20,9 @@
   </tr>
 </table>
 
-
-
 ## Profile
 
 #### Platform Engineer specializing in DevOps, building self-service systems, and automation frameworks. Focused on boosting system reliability and deployment speed with advanced cloud solutions and comprehensive automation strategies.
-
 
 ## Skills
 
@@ -62,7 +59,7 @@
 - Led the migration of CI/CD infrastructure from Buildkite to GitHub Actions workflows and ArgoCD
 - Implemented GitOps principles with automated versioning and preview environments across multiple applications, reducing deployment complexity and improving developer experience.
 - Reduced EKS spend by 80% after rolling out karpenter and workload optimizations
-    
+
 ### 2U, Inc., New York, NY (2020-2024) Engineer IV
 
 - Lead the DevOps team in the development of an in-house self-service platform “CentralPark”, reducing infrastructure-related tickets by over 200 monthly.
@@ -82,7 +79,7 @@
 - Automated the generation of Jira tickets for vulnerabilities above cloud security's threshold
 - Managed multiple partner integrations, coordinating cross-functional teams
 - Converted CloudFormation templates into Infrastructure as Code (IaC) with Terraform, reducing deployment times by 50% and lowering error
-rates.
+  rates.
 
 ### 2U, Inc., New York, NY (2013-2015) From Intern to Engineer I
 
@@ -90,7 +87,7 @@ rates.
 - Consolidated 20 single-tenant infrastructure stacks into a single, triple-sized multi-tenant stack, achieving a 95% reduction in total stack count
 
 ## GitHub Contributions
-    
+
 <table style="width: 100%; border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td style="width: 25%; border: none; vertical-align: top;">
@@ -170,4 +167,3 @@ rates.
     </td>
   </tr>
 </table>
-
